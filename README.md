@@ -4,10 +4,7 @@
 
 <p align="center"> 💬 <strong>Realtime Clone Chat Discord</strong> 🚧
  </p>
- 
- <p align="center"> :rocket: <strong>Em Andamento...</strong> 🚧
- </p>
- 
+  
 <br>
 
 <p align="center">
