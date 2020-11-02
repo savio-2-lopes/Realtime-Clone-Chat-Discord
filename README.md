@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="ChatRealtime" title="#UICloneNetflix" src="./assets/1.gif" width="600px">
+  <img alt="ChatRealtime" title="#ChatRealtime" src="./assets/1.gif" width="600px">
 </h3>
 
 <p align="center"> 💬 <strong>Realtime Clone Chat Discord</strong> 🚧
