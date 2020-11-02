@@ -48,6 +48,7 @@
 
 💡 A aplicação é baseada nas lives do canal [Clever Programmer](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ).
 
+
 <br>
 
 <a id="deploy"></a>
