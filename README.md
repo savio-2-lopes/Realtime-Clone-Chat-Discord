@@ -89,7 +89,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 <br>
 
-#### 🧭 Rodando a aplicação web (Frontend)
+#### 🧭 Rodando a aplicação web
 
 ```bash
 
