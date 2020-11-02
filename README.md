@@ -37,8 +37,6 @@
 
 ## 💻 Sobre o projeto
 
-<br>
-
 🚀 O projeto é um Clone do Chat do Discord, desenvolvido com ReactJS e a biblioteca Redux. 
 
 <br>
@@ -50,8 +48,6 @@
 <a id="deploy"></a>
 
 ## ⚡ Deploy
-
-<br>
 
 🎲 Segue abaixo o link do Deploy da Aplicação
 <br><br>
@@ -110,7 +106,6 @@ $ yarn start
 
 ## 🛠 Tecnologias
 
-<br>
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Node.js](https://nodejs.org/en/)
