@@ -5,10 +5,10 @@ const firebaseConfig    = {
     apiKey:             "",
     authDomain:         "",
     databaseURL:        "",
-    projectId:          "d",
+    projectId:          " ",
     storageBucket:      "",
     messagingSenderId:  "",
-    appId:              "1",
+    appId:              " ",
     measurementId:      ""
   };
 
